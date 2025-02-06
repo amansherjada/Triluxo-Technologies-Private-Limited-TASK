@@ -21,7 +21,7 @@ This project is a custom chatbot that extracts data from the Brainlox website, p
 └── README.md               # Project documentation
 ```
 ## Demo
-![Image](Demo\image.png)
+![Image](Demo/image.png)
 
 ## Installation
 ### Prerequisites
